@@ -16,16 +16,16 @@ terminal-border: "0"
 # Logo image
 + image {
 	left = 50%-250
-	top = 50%-250
+	top = 40%-250
     file = "logo.png"
 }
 
 # Show the boot menu
 + boot_menu {
-  left = 50%-720
-  top = 60%
-  width = 1440
-  height = 30%
+  left = 50%-900
+  top = 50%
+  width = 1800
+  height = 40%
   item_font = "Unifont Regular 48"
   item_color = "#CDD6F4"
   selected_item_color = "#CDD6F4"
